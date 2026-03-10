@@ -1,0 +1,19 @@
+.wrapper {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.name {
+  margin: 0;
+  font-weight: 600;
+}
+
+.button {
+  border: none;
+  border-radius: 8px;
+  background: #ef4444;
+  color: #ffffff;
+  padding: 8px 12px;
+  cursor: pointer;
+}

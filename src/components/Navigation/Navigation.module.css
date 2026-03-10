@@ -1,0 +1,14 @@
+.nav {
+  display: flex;
+  gap: 16px;
+}
+
+.link {
+  padding: 6px 10px;
+  border-radius: 8px;
+}
+
+.active {
+  background: #dbeafe;
+  color: #1d4ed8;
+}

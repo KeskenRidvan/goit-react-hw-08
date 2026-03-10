@@ -1,0 +1,16 @@
+.section {
+  background: #ffffff;
+  border: 1px solid #d1d5db;
+  border-radius: 12px;
+  padding: 24px;
+}
+
+.title {
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+.text {
+  margin: 0;
+  line-height: 1.5;
+}
